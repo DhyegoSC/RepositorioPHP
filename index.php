@@ -1,5 +1,5 @@
 <?php
 
-echo "Ta osso";
+echo "olá mundo, ta ficando osso";
 
 ?>
