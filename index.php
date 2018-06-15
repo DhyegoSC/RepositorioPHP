@@ -1,7 +1,7 @@
 <?php
 
-echo "olá mundo, ta ficando osso , tinha trabalho hj";
+echo "olá mundo, ta ficando osso, nao fiz o trabalho";
 
-echo "Fudeu geral";
+echo "fudeu mano";
 
 ?>
